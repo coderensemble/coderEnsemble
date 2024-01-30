@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Freact-native-svg-transformer%3FactiveTab%3Dreadme&psig=AOvVaw3vKd0ITG5LsHWSGkVIXnLl&ust=1706698328426000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiNzu74hIQDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Freact-native-svg-transformer%3FactiveTab%3Dreadme&psig=AOvVaw3vKd0ITG5LsHWSGkVIXnLl&ust=1706698328426000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiNzu74hIQDFQAAAAAdAAAAABAE" alt="reactnative" width="40" height="40"/> 
+      <img src="https://facebook.github.io/react-native/" alt="reactnative" width="40" height="40"/> 
     </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
