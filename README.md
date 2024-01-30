@@ -81,6 +81,15 @@
     </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask Logo" width="40" height="40" style="fill: red;">
+  [![Flask Logo](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg)](https://flask.palletsprojects.com/){:target="_blank" rel="noreferrer"}
+<style>
+  img[alt="Flask Logo"] {
+    width: 40px;
+    height: 40px;
+    fill: red;
+  }
+</style>
+
 </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
