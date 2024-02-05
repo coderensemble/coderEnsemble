@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **adrien.neyron@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y6YLHebLvGZcBQ1nYM0IfDedMAl2l5kI/view?usp=sharing](https://drive.google.com/file/d/1y6YLHebLvGZcBQ1nYM0IfDedMAl2l5kI/view?usp=sharing)
+- 📄 Know about my experiences, let see my resume [https://drive.google.com/file/d/1y6YLHebLvGZcBQ1nYM0IfDedMAl2l5kI/view?usp=sharing](https://drive.google.com/file/d/1y6YLHebLvGZcBQ1nYM0IfDedMAl2l5kI/view?usp=sharing)
 
 <p align="left">
 </p>
@@ -28,9 +28,6 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
