@@ -2,9 +2,11 @@
 <h3 align="center">A passionate junior developer from France</h3>
 <h3 align= "center">Full Stack JS</h3>
 
-- 📫 How to reach me **adrien.neyron@gmail.com**
+- 📫 How to reach me:
+  **adrien.neyron@gmail.com**
 
-- 📄 Know about my experiences, let see my resume [https://drive.google.com/file/d/1y6YLHebLvGZcBQ1nYM0IfDedMAl2l5kI/view?usp=sharing](https://drive.google.com/file/d/1y6YLHebLvGZcBQ1nYM0IfDedMAl2l5kI/view?usp=sharing)
+- 📄 Know about my experiences, let see my resume:
+  [https://drive.google.com/file/d/1y6YLHebLvGZcBQ1nYM0IfDedMAl2l5kI/view?usp=sharing](https://drive.google.com/file/d/1y6YLHebLvGZcBQ1nYM0IfDedMAl2l5kI/view?usp=sharing)
 
 <p align="left">
 </p>
