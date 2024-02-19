@@ -6,7 +6,7 @@
   **adrien.neyron@gmail.com**
 
 - 📄 Know about my experiences, let see my resume:<br>
-  [[https://drive.google.com/file/d/1y6YLHebLvGZcBQ1nYM0IfDedMAl2l5kI/view?usp=sharing](https://drive.google.com/file/d/1Mvt4_FKzDoenapzDUibbCowgmkLkRb8p/view?usp=drive_link)](https://drive.google.com/file/d/1y6YLHebLvGZcBQ1nYM0IfDedMAl2l5kI/view?usp=sharing)
+  [(https://drive.google.com/file/d/1Mvt4_FKzDoenapzDUibbCowgmkLkRb8p/view?usp=drive_link)](https://drive.google.com/file/d/1Mvt4_FKzDoenapzDUibbCowgmkLkRb8p/view?usp=drive_link)
 
 <p align="left">
 </p>
