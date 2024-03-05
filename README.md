@@ -8,7 +8,7 @@
 - 📄 Know about my experiences, let see my resume:<br>
   [https://drive.google.com/file/d/1x4jLV0rzbO3hBg8KuYawJOo3VCY8G1FI/view?usp=drive_link](https://drive.google.com/file/d/1x4jLV0rzbO3hBg8KuYawJOo3VCY8G1FI/view?usp=drive_link)
 
-- Discover my portfolio: <br>
+- 👨‍💻 Discover my portfolio: <br>
 [https://adrienneyron.vercel.app/](https://adrienneyron.vercel.app/)
 
 <p align="left">
