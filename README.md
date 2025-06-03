@@ -5,9 +5,6 @@
 - 📫 How to reach me:<br>
   **adrien.neyron@gmail.com**
 
-- 📄 Know about my experiences, let see my resume:<br>
-  [https://drive.google.com/file/d/1x4jLV0rzbO3hBg8KuYawJOo3VCY8G1FI/view?usp=drive_link](https://drive.google.com/file/d/1x4jLV0rzbO3hBg8KuYawJOo3VCY8G1FI/view?usp=drive_link)
-
 - 👨‍💻 Discover my portfolio: <br>
 [https://adrienneyron.vercel.app/](https://adrienneyron.vercel.app/)
 
@@ -18,6 +15,9 @@
 <h3 align="center">Technos</h3>
 <h3 align="left">My favorites:</h3>
 <p align="left"> 
+ <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> 
+  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
