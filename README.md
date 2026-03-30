@@ -1,36 +1,26 @@
-<h1 align="center">Hi 👋, I'm Adrien</h1>
-<h3 align="center">A passionate Full Stack JavaScript developer from France</h3>
-
----
-
-## 📫 Contact Me
-You can reach me at:  
-**adrien.neyron@gmail.com**  
-
-Check out my portfolio:  
-[https://adrienneyron.vercel.app/](https://adrienneyron.vercel.app/)
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> , I'm Adrien
+</h1>
+<h3 align="center">Full Stack JavaScript Developer from France</h3>
 
 ---
 
 ## 💻 Tech Stack
 
-Here are some of my favorite technologies:
+Here’s the stack I use to build modern web applications:
 
 <p align="left">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/10201861?s=200&v=4" alt="Nuxt.js" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -38,22 +28,26 @@ Here are some of my favorite technologies:
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/V/vercel-logo-EEA8F3C1E1-seeklogo.com.png" alt="Vercel" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
 ## ⚡ About Me
-I’m passionate about creating web and mobile applications that solve real-world problems.  
-I love **full-stack development**, **automating workflows**, and **building intuitive user interfaces**.  
-
-Currently, I’m focused on **e-commerce apps, AI-powered recommendation engines, and automation workflows**.
+I build modern, scalable web applications with **Vue/Nuxt, Node.js, and modern databases**.  
+I enjoy **automation, e-commerce applications, and AI-powered recommendation engines**.  
 
 ---
 
 ## 📌 Goals
-- Build scalable web apps with **Nuxt.js / Vue 3 / React**  
-- Automate e-commerce workflows using modern JavaScript tools  
-- Contribute to open-source projects and share knowledge  
+- Build scalable full-stack applications using **Nuxt, Node.js, PostgreSQL/MongoDB**  
+- Deliver intuitive UI/UX with **Vue.js and TailwindCSS**  
+- Deploy efficiently on **Vercel** with GitHub CI/CD workflows  
 
 ---
 
@@ -73,12 +67,12 @@ Currently, I’m focused on **e-commerce apps, AI-powered recommendation engines
 
 | Project | Description | Link |
 |---------|-------------|------|
-| RunFit Advisor | Shoe recommendation engine | [GitHub](https://github.com/coderensemble/runfit-advisor) |
-| Portfolio | My personal portfolio | [Live](https://adrienneyron.vercel.app/) |
+| RunFit Advisor | Personalized shoe recommendation engine | [GitHub](https://github.com/coderensemble/runfit-advisor) |
+| Portfolio | Personal portfolio | [Live](https://adrienneyron.vercel.app/) |
 
 ---
 
-## 🤝 Let’s Connect
+## 📫 Contact / Let’s Connect
 
 - **Email:** adrien.neyron@gmail.com  
 - **LinkedIn:** [linkedin.com/in/adrienneyron](https://www.linkedin.com/in/adrienneyron)  
