@@ -45,11 +45,15 @@ I enjoy **automation, e-commerce applications, and AI-powered recommendation eng
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrienneyron&show_icons=true&theme=radical" alt="Adrien's GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=adrienneyron&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienneyron&layout=compact&theme=radical" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienneyron&layout=compact&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
