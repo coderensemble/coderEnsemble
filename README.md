@@ -56,13 +56,17 @@ I enjoy **automation, e-commerce applications, and AI-powered recommendation eng
   />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adrienneyron&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 📂 Projects Showcase
 
 | Project | Description | Link |
 |---------|-------------|------|
-| RunFit Advisor | Personalized shoe recommendation engine | [GitHub](https://github.com/coderensemble/runfit-advisor) |
+| RunFit Advisor | Personalized shoe recommendation engine | [live](runfit-advisor.vercel.app) |
 | Portfolio | Personal portfolio | [Live](https://adrienneyron.vercel.app/) |
 
 ---
