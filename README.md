@@ -66,7 +66,7 @@ I enjoy **automation, e-commerce applications, and AI-powered recommendation eng
 
 | Project | Description | Link |
 |---------|-------------|------|
-| RunFit Advisor | Personalized shoe recommendation engine | [live](runfit-advisor.vercel.app) |
+| RunFit Advisor | Personalized shoe recommendation engine | [live](https://runfit-advisor.vercel.app) |
 | Portfolio | Personal portfolio | [Live](https://adrienneyron.vercel.app/) |
 
 ---
