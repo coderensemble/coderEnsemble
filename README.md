@@ -62,12 +62,45 @@ I enjoy **automation, e-commerce applications, and AI-powered recommendation eng
 
 ---
 
-## 📂 Projects Showcase
+## 🚀 Featured Project
 
-| Project | Description | Link |
-|---------|-------------|------|
-| RunFit Advisor | Personalized shoe recommendation engine | [live](https://runfit-advisor.vercel.app) |
-| Portfolio | Personal portfolio | [Live](https://adrienneyron.vercel.app/) |
+### 🧠 RunFit Advisor — AI Shoe Recommendation Engine
+
+<p align="center">
+  <a href="https://runfit-advisor.vercel.app/" target="_blank">
+    <img src="https://image.thum.io/get/width/900/crop/700/https://runfit-advisor.vercel.app/" alt="RunFit Advisor Preview"/>
+  </a>
+</p>
+
+**RunFit Advisor** is a web application that recommends the best running or trail shoes based on:
+- Morphology
+- Running habits
+- Injury history
+- Performance goals
+
+### ✨ Key Features
+- Smart questionnaire & recommendation algorithm  
+- Modern UI built with Nuxt + Tailwind  
+- Ready for e-commerce & affiliate integration  
+- Deploy-ready full-stack architecture  
+
+---
+
+### 🛠 Tech Stack
+`Nuxt 3` • `Vue 3` • `Node.js` • `PostgreSQL` • `MongoDB` • `TailwindCSS` • `Vercel`
+
+---
+
+### 🔗 Links
+
+<p align="center">
+  <a href="https://runfit-advisor.vercel.app/">
+    <img src="https://img.shields.io/badge/🌍_Live_App-000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/coderensemble/runfit-advisor">
+    <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
